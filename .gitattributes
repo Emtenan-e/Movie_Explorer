@@ -1,1 +1,2 @@
-web/* linguist-vendored
+web/** linguist-vendored
+build/** linguist-vendored
