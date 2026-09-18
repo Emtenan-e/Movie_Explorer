@@ -1,8 +1,6 @@
 # Movie Explorer
 A Flutter movie discovery app that allows users to explore movies, watch trailers, view ratings, cast and production companies, search by title or genre, and save movies to a personal watch list.
 
-Data and images provided by TMDB,
-
 ## Features 
 - Browse and explore movies
 - View detailed movie information
@@ -52,10 +50,11 @@ Data and images provided by TMDB,
     flutter run
 
 ## Screenshots
-![Homepage](screenshots/homepage.jpeg)
-![Moive Page](screenshots/movie_page.jpeg)
-![Watch List](screenshots/search_page.jpeg)
-![Search](screenshots/watchlist.jpeg)
+![Homepage](screenshots/homepage.jpg)
+![Moive Page](screenshots/movie_page.jpg)
+![Watch List](screenshots/search_page.jpg)
+![Search](screenshots/watchlist.jpg)
+
 
 ## Data Source
 Movie data and images are provided by [TMDB](https://www.themoviedb.org/).
